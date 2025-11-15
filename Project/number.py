@@ -1,4 +1,4 @@
-     import random
+import random
 random_number = random.randint(1,100)
 print("Welcome User!")
 
@@ -25,3 +25,4 @@ while True:
         score -= 5
 
     print(f"current score: {score}")
+     
